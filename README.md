@@ -10,3 +10,7 @@
 'https://kyfw.12306.cn/otn/leftTicket/queryA?leftTicketDTO.train_date=2017-01-04&leftTicketDTO.from_station=BJP&leftTicketDTO.to_station=HZH&purpose_codes=ADULT'
 
 第一个GET请求无法返回数据。。难道还有针对参数顺序的反爬虫机制？还是见得太少了。。orz
+
+
+
+base64加密脚本
